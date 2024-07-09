@@ -42,6 +42,9 @@ lastindex.append(index)
 
 return lastindex
 
+for index, num in **enumerate**(nums):
+
+
 
 
 
