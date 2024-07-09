@@ -31,6 +31,19 @@ result.add(num) .add set use that to add element
 
 ## 202. 快乐数 
 
+self.get_sum() 注意要使用self.
+
+##  1. 两数之和 
+showed[target-num].append(index) 会return None 换成了：
+
+lastindex=showed[target-num]
+
+lastindex.append(index)
+
+return lastindex
+
+
+
 
 
 
