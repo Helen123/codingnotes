@@ -11,6 +11,11 @@ minus and divi 后pop除以先pop
 divi只出int
 
 ## 239. 滑动窗口最大值
+用deque
+
+维护可能成为max的num
+
+什么时候pop？，加入元素，size要大于k，deq[0]还是之前应该pop的值。
 
 ## 347.前 K 个高频元素
 
