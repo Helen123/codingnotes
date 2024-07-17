@@ -1,5 +1,15 @@
 # day11
 ##  150. 逆波兰表达式求值
+细节处比较困难
+
+The division between two integers always truncates toward zero
+
+function divi is difficult
+
+minus and divi 后pop除以先pop
+
+divi只出int
+
 ## 239. 滑动窗口最大值
 
 ## 347.前 K 个高频元素
